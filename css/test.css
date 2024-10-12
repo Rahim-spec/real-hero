@@ -1,5 +1,5 @@
 body{
-	background-color: orange;
+	background-color: #123524;
 }
 
 h1{
@@ -26,4 +26,8 @@ h2{
 
 h1 span{
 	color:purple;
+}
+
+.photo{
+	object-position: middle;
 }
